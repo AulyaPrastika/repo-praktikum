@@ -38,4 +38,22 @@
 </div>
 
 <h2 style="color:#b43b78;">🧩 Perintah Git yang Digunakan</h2>
+  git init
+  git add
+  git commit -m "pesan commit"
+  git pull origin main --rebase
+  git push origin main
+
+<h2 style="color:#b43b78;">💐 Penutup</h2>
+<p>
+  Repository ini dibuat untuk pembelajaran dan dokumentasi pribadi.  
+  Semoga bermanfaat dan membantu proses belajar Git ke depannya!  
+  <br><br>
+</p>
+
+<div align="center" style="font-size: 18px; color:#c44f92;">
+  Dibuat dengan 💖 oleh <b>Aulya Prastika Dewi</b>
+</div>
+
+</div>
 
