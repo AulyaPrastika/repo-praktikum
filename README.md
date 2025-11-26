@@ -13,7 +13,7 @@
 
 <p align="center" style="font-size: 18px; color:#555;">
   <b>Aulya Prastika Dewi</b>  
-  <br>✨ Dokumentasi praktikum Git dengan tampilan aesthetic ✨
+  <br>✨ Dokumentasi praktikum Git ✨
 </p>
 
 <hr style="border: none; height: 2px; background: #ff9ac7; width: 70%;">
