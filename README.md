@@ -1,52 +1,41 @@
+<div style="
+  background: linear-gradient(135deg, #ffe6f2, #e8f0ff);
+  border-radius: 18px;
+  padding: 30px;
+  box-shadow: 0 0 18px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', sans-serif;
+  color: #444;
+">
+
+<h1 align="center" style="color:#d14f91; font-size: 40px; margin-top: 0;">
+  🌷 Repo Praktikum Git 🌷
+</h1>
+
+<p align="center" style="font-size: 18px; color:#555;">
+  <b>Aulya Prastika Dewi</b>  
+  <br>✨ Dokumentasi praktikum Git dengan tampilan aesthetic ✨
+</p>
+
+<hr style="border: none; height: 2px; background: #ff9ac7; width: 70%;">
+
+<h2 style="color:#b43b78;">📌 Deskripsi</h2>
+<p>
+  Repository ini berisi file dan dokumentasi untuk praktikum Git.  
+  Semua proses seperti <i>add, commit, push, pull,</i> hingga <i>rebase</i> sudah dikerjakan menggunakan Git Bash.
+</p>
+
+<h2 style="color:#b43b78;">🖼 File dalam Repository</h2>
+<ul>
+  <li><b>pemandangan.jpg</b> — gambar pemandangan sebagai file uji coba</li>
+  <li><b>README.md</b> — file dokumentasi</li>
+</ul>
+
+<h2 style="color:#b43b78;">🌄 Preview Gambar</h2>
+
 <div align="center">
-
-# 🌱 Repo Praktikum Git  
-### oleh **Aulya Prastika Dewi**
-
-✨ *Kumpulan file, tugas, dan latihan praktikum Git* ✨
-
----
-
+  <img src="pemandangan.jpg" alt="Gambar Pemandangan" width="450" 
+  style="border-radius: 14px; box-shadow: 0 0 12px rgba(0,0,0,0.15); margin: 12px 0;">
 </div>
 
-- [📌 Deskripsi](#-deskripsi)
-- [🖼️ File yang Disertakan](#️-file-yang-disertakan)
-- [📸 Preview Gambar](#-preview-gambar)
-- [🧩 Perintah Git yang Digunakan](#-perintah-git-yang-digunakan)
-- [🌸 Penutup](#-penutup)
+<h2 style="color:#b43b78;">🧩 Perintah Git yang Digunakan</h2>
 
----
-
-Repository ini digunakan untuk memenuhi tugas praktikum Git—mulai dari membuat repository, mengupload file, melakukan commit, hingga push ke GitHub.  
-Semua langkah sudah dilakukan menggunakan terminal Git Bash.
-
----
-
-Berikut adalah file dalam repo ini:
-
-- `pemandangan.jpg` — Gambar pemandangan sebagai file uji coba Git  
-- `README.md` — Dokumentasi repository
-
----
-
-
-> 🌄 *Berikut adalah gambar yang diupload melalui Git:*
-
-<div align="center">
-  
-<img src="pemandangan.jpg" alt="Pemandangan" width="500px" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15)">
-
-</div>
-
----
-
-Beberapa perintah Git yang dipakai dalam praktikum ini:
-
-```bash
-git init
-git add .
-git commit -m "pesan commit"
-git pull origin main --rebase
-git push origin main
-
-ini adalah repository untuk praktikum git oleh Aulya.
